@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
   bigblue: {
     color: 'blue',
     fontWeight: 'bold',
-    fontSize: 30,
+    fontSize: 70,
   },
   red: {
     color: 'red',
